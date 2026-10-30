@@ -114,17 +114,15 @@ The following screenshots demonstrate the execution and output of the experiment
 ![Server Running](screenshots/server-running.png)
 
 ### 9.2 Database Connection
-
-![Database Connection](screenshots/database-connection.png)
+![Database Connection](screenshots/server-running.png)
 
 ### 9.3 API Endpoint Response
-
-![API Response](screenshots/endpoint-response.png)
+![API Response](screenshots/students.png)
 
 ### 9.4 Additional Output
+![Home Page](screenshots/home.png)
 
-![Additional Output](screenshots/other-screenshots.png)
-
+![404 Page](screenshots/404-not-found.png)
 ## 10. Result
 
 The Node.js application was successfully configured with an SQLite database using Express.js. The server was executed, and the database connection and API functionality were tested.
