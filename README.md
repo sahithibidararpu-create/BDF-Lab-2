@@ -1,5 +1,18 @@
 # LAB 2: Node.js and SQLite Database
 
+
+## Student Details
+| Field | Details |
+|---|---|
+| **Name** | Sahithi Bidararpu |
+| **Registration Number** | 252U1R1034 |
+| **Class / Section** | CSE Core 2A |
+| **Program** | B.Tech CSE, Year II, Term I |
+| **University** | Aurora Deemed to be University (NIAT), Hyderabad |
+| **Course** | Backend Development Fundamentals |
+| **GitHub Repo** | https://github.com/sahithibidararpu-create/BDF-Lab-2 |
+| **Deployment URL** | Not deployed (runs locally at http://localhost:3000) |
+
 ## 1. Introduction
 
 This laboratory experiment focuses on integrating an SQLite database with Node.js and Express.js. The main purpose is to understand how a server-side application connects to a database and performs database operations through API endpoints.
